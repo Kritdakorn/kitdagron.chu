@@ -1,5 +1,5 @@
 ![image](https://img.in.th/images/547a73b7151fbe032dfa340a5f21d718.png)
-## Kitdagron Chuakmaithong
+## Kitdagron Chuakmaithong 6424650064
 #### Contact
 - Tell: 0863624849
 - Line ID: Ninekung1993
@@ -12,12 +12,12 @@ Korn is passionate about making the world a better place by create coding. He lo
 ### Education
 #### Winitsuksa 2014-2020
 Korn graduated from high school from the university. He graduated in science and mathematics.
-#### Thammasat University
+#### Thammasat University Aug, 2021
 Studying at Thammasat University Interdisciplinary College, Data Science and Innovation Program
 
-## Personal Skill
+### Personal Skill
 ![image](https://img.in.th/images/20c102efc2cd6ac6eefaba5e96241934.png)
-## Professional Skill
+### Professional Skill
 ![image](https://img.in.th/images/fbecd8c39c46419bacd23216afc43a54.png)
 
 ### Certificate
