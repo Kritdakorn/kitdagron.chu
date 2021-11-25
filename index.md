@@ -9,30 +9,17 @@
 
 Korn is passionate about making the world a better place by create coding. He loves learning about the latest technologies and finding out how to improve his craft. Korn is detail oriented and focused.  When not in front of a computer, Korn likes playing games and eating japanesd food. 
 
-```markdown
-Syntax highlighted code block
+### Education
+#### Winitsuksa 2014-2020
+Korn graduated from high school from the university. He graduated in science and mathematics.
+#### Thammasat University
+Studying at Thammasat University Interdisciplinary College, Data Science and Innovation Program
 
-# Header 1
-## Header 2
-### Header 3
+## Personal Skill
+![image](https://img.in.th/images/20c102efc2cd6ac6eefaba5e96241934.png)
+## Professional Skill
+![image](https://img.in.th/images/fbecd8c39c46419bacd23216afc43a54.png)
 
-- Bulleted
-- List
+### Certificate
+![image](https://img.in.th/images/906f41d1e578a3250270dfd7d9e75912.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kritdakorn/kitdagron.chu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
