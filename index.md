@@ -11,7 +11,7 @@ Korn is passionate about making the world a better place through coding. He love
 
 ### Education
 #### Winitsuksa 2014-2020
-Korn graduated from high school from the university. He graduated in science and mathematics.
+Korn graduated from high school in 2020. He graduated in Science and Mathematics.
 #### Thammasat University Aug, 2021
 Studying at Thammasat University Interdisciplinary College, Data Science and Innovation Program
 
