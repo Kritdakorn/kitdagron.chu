@@ -1,13 +1,13 @@
 ![image](https://img.in.th/images/547a73b7151fbe032dfa340a5f21d718.png)
-## Welcome to GitHub Pages
+## Kitdagron Chuakmaithong
+# Contact
+- Tell: 0863624849
+- Line ID: Ninekung1993
+- Instagram: Korn_CMT
 
-You can use the [editor on GitHub](https://github.com/Kritdakorn/kitdagron.chu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Professional Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Korn is passionate about making the world a better place by create coding. He loves learning about the latest technologies and finding out how to improve his craft. Korn is detail oriented and focused.  When not in front of a computer, Korn likes playing games and eating japanesd food. 
 
 ```markdown
 Syntax highlighted code block
